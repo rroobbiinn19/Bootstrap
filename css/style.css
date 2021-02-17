@@ -1,0 +1,6 @@
+img img-fluid border rounded-circle text-center {
+
+}
+.container.bg-info img{
+	width: 20% !important;
+}
